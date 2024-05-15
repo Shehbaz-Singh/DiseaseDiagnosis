@@ -2,7 +2,7 @@
 A Machine Learning based 
 -Heart Disease Prediction
 -Diabeties Prediction
--Pneumonia Prediction using Image
+
 
 To run and test:
 1. Create a virtual environment and move to it.
